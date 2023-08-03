@@ -1,0 +1,2 @@
+In this project I explore a dataset of every passenger that was on the Titanic to see which characteristics were correlated to survival of the tragedy. I cleaned the data by removing columns that were not useful such
+as ticket number, and by removing data entries that had missing data. Next I created pivot tables to determine which variables were more likely to be correlated to survival such as class, age, and port of origin.
